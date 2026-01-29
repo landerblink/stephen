@@ -22,6 +22,7 @@ export default function PhotoGrid() {
     "/assets/stephen/image_15.jpg",
     "/assets/stephen/image_16.jpg",
     "/assets/stephen/image_17.jpg",
+    "/assets/stephen/image_18.png",
   ];
 
   const [shuffled, setShuffled] = useState<string[]>([]);
